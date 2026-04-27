@@ -1,0 +1,2 @@
+# fitlog-daily
+workout
